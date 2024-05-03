@@ -105,14 +105,14 @@ const CONFIG = {
   certifications: [
     {
       name: 'Networking Devices and Initial Configuration',
-      body: 'Cisco verifies the earner of this badge successfully completed the Networking Devices and Initial Configuration course and achieved this student level credential. Earner learned characteristics and benefits of cloud and virtualization, explored how to provide Internet Protocol (IP) addresses to devices, calculate an IP addressing scheme, configured Cisco devices to create a small network and tested for connectivity issues. Participated in up to 7 labs and 12 Cisco Packet Tracer activities.',
+      body: '',
       year: 'March 2024',
       link: 'https://www.credly.com/badges/42368652-9c38-43d8-8edf-cfc0857da78f/public_url',
     },
     {
 
       name: 'Networking Basics',
-      body: 'Cisco verifies the earner of this badge successfully completed the Networking Basics course and achieved this student level credential. Earner has knowledge of the types of networks, how they work, how devices send and receive data, the types of network cabling, how IP addresses find information on the Internet, how transport and applications operate, and has practiced building a home wireless network. Participated in up to 13 Cisco Packet Tracer activities.',
+      body: '',
       year: 'March 2024',
       link: 'https://www.credly.com/badges/845a5bae-0504-4a80-9944-7a4936fb1d2b/public_url',
       
