@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'A project for vehicles system security exectued on STM32-Nucleo64-G474RE',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.freepik.com/free-vector/heart-rate-medical-icon-vector_28352665.htm#fromView=search&page=1&position=23&uuid=88b447e8-56a6-4340-9ebc-c8c273457548',
           link: 'https://github.com/fiocapolungo/CARdioSentinel',
         }
         /*{
